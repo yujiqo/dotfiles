@@ -27,8 +27,8 @@ input {
     }
 
     trackpoint {
-        off
-        accel-speed -0.9
+        // off
+        accel-speed -0.7
         accel-profile "adaptive"
     }
 
@@ -124,6 +124,7 @@ window-rule {
 
 window-rule {
     geometry-corner-radius 10
+    draw-border-with-background false
     clip-to-geometry true
 }
 
