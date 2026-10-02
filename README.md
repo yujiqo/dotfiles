@@ -7,3 +7,4 @@ Same convention as [yurice](https://github.com/yujiqo/yurice): `config/` mirrors
 
 - `config/git/config`        - git identity
 - `config/opencode`          - opencode
+- `config/karabiner`         - karabiner.json, caps/escape swap + fn keys (macbook only)
