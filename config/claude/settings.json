@@ -23,13 +23,7 @@
       }
     ]
   },
-  "enabledPlugins": {
-    "pyright-lsp@claude-plugins-official": true
-  },
   "modelSettings": {
-    "claude-sonnet-5": {
-      "effortLevel": "medium"
-    },
     "claude-opus-5-5": {
       "effortLevel": "medium"
     }
